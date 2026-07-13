@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6th Sem\\Code\\Animal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{826B46C7-C34F-4095-91B7-7A0837B5BFE3}|Animal\\Animal.csproj|d:\\6th sem\\code\\animal\\animal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826B46C7-C34F-4095-91B7-7A0837B5BFE3}|Animal\\Animal.csproj|solutionrelative:animal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\6th Sem\\Code\\Animal\\Animal\\Program.cs",
+              "RelativeDocumentMoniker": "Animal\\Program.cs",
+              "ToolTip": "D:\\6th Sem\\Code\\Animal\\Animal\\Program.cs",
+              "RelativeToolTip": "Animal\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T09:34:18.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
