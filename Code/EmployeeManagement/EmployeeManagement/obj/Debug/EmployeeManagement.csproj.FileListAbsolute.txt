@@ -1,0 +1,7 @@
+D:\6th Sem\Code\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+D:\6th Sem\Code\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+D:\6th Sem\Code\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+D:\6th Sem\Code\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+D:\6th Sem\Code\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\6th Sem\Code\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+D:\6th Sem\Code\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
