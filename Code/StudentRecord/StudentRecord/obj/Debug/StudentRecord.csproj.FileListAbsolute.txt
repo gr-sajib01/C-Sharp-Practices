@@ -1,0 +1,7 @@
+D:\6th Sem\Code\StudentRecord\StudentRecord\bin\Debug\StudentRecord.exe.config
+D:\6th Sem\Code\StudentRecord\StudentRecord\bin\Debug\StudentRecord.exe
+D:\6th Sem\Code\StudentRecord\StudentRecord\bin\Debug\StudentRecord.pdb
+D:\6th Sem\Code\StudentRecord\StudentRecord\obj\Debug\StudentRecord.csproj.AssemblyReference.cache
+D:\6th Sem\Code\StudentRecord\StudentRecord\obj\Debug\StudentRecord.csproj.CoreCompileInputs.cache
+D:\6th Sem\Code\StudentRecord\StudentRecord\obj\Debug\StudentRecord.exe
+D:\6th Sem\Code\StudentRecord\StudentRecord\obj\Debug\StudentRecord.pdb
